@@ -1,5 +1,5 @@
- #🍽️ Food Website
-
+ # Food Website
+🍽️
 This is a Frontend-only Food Website project created using Next.js, Tailwind CSS, and TypeScript. It aims to provide an engaging user experience for browsing food-related content.
 
 ## Technologies Used
