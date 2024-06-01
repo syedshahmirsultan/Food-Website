@@ -4,10 +4,10 @@ This is a Frontend-only Food Website project created using Next.js, Tailwind CSS
 
 ## Technologies Used
 
-- [Next.js]("https://nextjs.org/blog/next-14-2")
-- [Tailwind CSS]("https://tailwindcss.com/")
-- [TypeScript]("https://www.typescriptlang.org/")
-- [React Icons]("https://react-icons.github.io/react-icons/")
+- [Next.js](https://nextjs.org/blog/next-14-2)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 I use Next.js as the framework and TypeScript as the programming language for writing the programs. For styling,
 I use Tailwind CSS and also incorporate React-Icons to enhance the website's visual appeal.
@@ -20,4 +20,4 @@ I use Tailwind CSS and also incorporate React-Icons to enhance the website's vis
 - Static typing and improved code maintainability with TypeScript.
 - Integration of React Icons for visually appealing iconography.
 
-To visit the website,[click here]("https://shahmir-food-website.vercel.app/")
+To visit the website,[click here](https://shahmir-food-website.vercel.app/)
